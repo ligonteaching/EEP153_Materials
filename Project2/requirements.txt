@@ -1,0 +1,18 @@
+# ndb.py: 5
+Pint >= 0.8.1
+
+# diet_problem.py: 52
+# ndb.py: 8
+numpy >= 1.15.0
+
+# diet_problem.py: 10
+# ndb.py: 2
+# nutrient_lookup.py: 5
+pandas >= 0.23.3
+
+# ndb.py: 12
+# nutrient_lookup.py: 11
+requests >= 2.20.0
+
+# diet_problem.py: 51
+scipy >= 1.1.0
