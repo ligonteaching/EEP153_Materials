@@ -135,7 +135,8 @@ a knowledge of the programming language
    complete one structured project for each
    topic.
 ** Introduction & Collaboration
-    - [[https://github.com/ligonteaching/EEP153_Materials/blob/master/Project0/pandas_introduction.ipynb][Pandas Introduction.ipynb]]
+    - [[http://datahub.berkeley.edu/user-redirect/interact?account=ligonteaching&repo=EEP153_Materials&branch=master&path=Project0/pandas_introduction.ipynb
+][Pandas Introduction.ipynb]]
 ** Population & Food Supply
    Students will construct datasets on the
    distribution of characteristics in the
