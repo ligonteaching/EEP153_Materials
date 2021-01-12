@@ -26,7 +26,24 @@ econometric tools.  The course will rely on
 a knowledge of the programming language
 =python=.
 * Administrivia
+** Prerequisites 
+   Data8, EEP100 or
+   equivalents required; Math 54
+   recommended.
 
+** Schedule
+   Meet two times per week; in 2021 MW 2--4pm (Pacific Time). 
+   
+   We'll have a mix of lectures and discussion (typically on Mondays)
+   and tutorials and group work (typically on Wednesdays).  
+
+** People
+   - Ethan Ligon (ligon@berkeley.edu)
+   - Becky Cardinali 
+   - Joyce Li 
+   - Cathy Liu 
+*** Office Hours
+   - Professor Ligon will hold "drop in" office hours 
 ** Evaluation (Grading)
    Grading in course depends primarily on /peer evaluation/.  In
    particular, every project will lead to you evaluating your
@@ -117,10 +134,127 @@ a knowledge of the programming language
    Students will work in small groups to
    complete one structured project for each
    topic.
-
 ** Introduction & Collaboration
-** Population and Food Supply
+** Population & Food Supply
+   Students will construct datasets on the
+   distribution of characteristics in the
+   world population, including measures of
+   resources, and the age and sex
+   composition of the world population.  A
+   separate dataset allows us to think
+   about food supply.
+*** Readings
+    - Malthus [[https://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-1798-1st-ed#lf0195_head_002][An Essay of the Principle of Population (1798)]]
+    - de Janvry-Sadoulet (2015), [[http://www.piazza.com/class_profile/get_resource/jr496uyyc062tz/jrb6yugn22e4gp][Chapter 11 of Development Economics]]
+    - Fuglie (2012), https://www.ers.usda.gov/amber-waves/2012/september/global-agriculture/
+*** Empirical exercise: Population pyramids                        :noexport:
+    - Deaton (1997)
+    - https://github.com/afolaborn/Python_Jupyter_Notebook/blob/master/Population-Pyramid/Population_Pyramid_Final.ipynb
+
 ** Subsistence Diets
+   Every living human has some minimal, or subsistence, nutritional
+   requirements; should these not be satisfied health and even life
+   may be threatened.  People satisfy these needs by eating various
+   kinds of food, but there may be many different food diets which
+   satisfy people's subsistence requirements.  One criterion for
+   choosing among these diets is /cost/. 
+
+   In this topic students use contemporary data on different kinds of
+   foods available to the US population along with prices to
+   construct estimates of /minimum cost/ subsistence diets.  
+*** Readings
+    - [[https://www.jstor.org/stable/pdf/1231810.pdf?casa_token=WCKDDMzf7CgAAAAA:B1TsWcgpfQQMSXtChZ_VThlodwilTzVbyk-5yj_1U57Kfmth0tE8qV1kcHXDxX1n8Iun8QsEwxAvmLkEc7UtwJd2LPBnRveEWFdrr5OHbeuTDqKqBrE4][Stigler (1945) "The Cost of Subsistence"]]
+    - [[https://piazza-resources.s3.amazonaws.com/jr496uyyc062tz/jsb2e24wylb64e/minimum_cost_diet.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAR6AWVCBXXTXJNAXC%252F20190424%252Fus-east-1%252Fs3%252Faws4_request&X-Amz-Date=20190424T204202Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=AgoJb3JpZ2luX2VjEAMaCXVzLWVhc3QtMSJIMEYCIQCk4zh%252Fx1OmB7zaD1m%252F%252Fun7szwA4icbeOeplvEx%252FkLC5wIhAJ78MWuElE8Cm9n73WNwN%252FUy4NI9dBGCd3qyu5vnDSgMKuMDCNv%252F%252F%252F%252F%252F%252F%252F%252F%252F%252FwEQABoMMTMzMTkxNTAzOTgzIgywQbn9l6mWXqzQCMcqtwO5Erkw270lupUuzD8zc6aCuKtu3wTzFkMcc1N7BGrlFoI9OO6p8Oj9IwrBBIvQTRb17Cpt7TKnXWsAe7RZp4EvAl7d9FMSiIze%252BD0O1sBI4FBag73gKAVvhtI3UiWUfVUkgn6pIlMqiMow0eCSKlUR2Dxv%252FX%252FZytGa45MbZKO6dPZVHDhi0laNvOo6fRxNo%252FKDGbTcmaP8dwSwLXt%252Fxa6Bf10FLCFABKRnAE1sM9hOatwzlrbAiq8lGUpG6UFOP4ny4FU0e0Xa0kGsGzon%252FjEpNuIOUBQqcAE0hM2dA9vjvXqj2UlN723ecTvRqP%252BX0ys%252FU1WORasUum7wrgAY9ZNZQ2b6HBse1L1dCIAM1RGFiyy4s417i5iM%252BH1VlMQTv36aeCxBAV%252FmYBg%252BF0d30DH3PhPjFrvWri4j40GFsDytioWfcJXuQtAX28NoYd1UqfCzClZ8lZJ%252BaN84yg8VVjj8YtVCQAsrovvQTvP9zWkB3JsR9V%252FQaRoar9dCgSUDKoFl0dl6etNVDqbwhEN31ikC7dqtUx5Qb7Y09fdPpV%252FsJUSv7bMeoKjIyZzJlD9JhH4MU9X0nVW4MNfOguYFOrMB2YNnmq2%252Fam2pZHo%252B8i1fuw6PHd8THxZ6pzXq6PvUzk%252F9l3XEv2kSt7RwChbg1PZeYvD1wKzi%252BiB6F98V5evv2CaCzpeXwW2fSunaxE3M3uvRuYVYRP9XEZshjGbga9G1pgM%252F4LneC7hhgyehaADntjACrR%252BG%252BKy%252Bg7MHPMbJwg8hCKdCRd5T%252B1OTHgpV8kQZyIb2AdtePKvmixHRKCJIxLfMhHGrL%252BJj6YtG%252BJzllrtUUbw%253D&X-Amz-Signature=97529f8126a21657cebb8b3d269fde748f5a11088c4dfa12e8e91cd651d1660f][Ligon's notes on the Minimum Cost Diet Problem]]
+*** Other resources                                                :noexport:
+    :PROPERTIES:
+    :ID:       3c8197f3-98f8-4fe8-a8a6-383c671bb77a
+    :END:
+    - [[http://www.jstor.org/stable/pdf/25061369.pdf][Dantzig (1990)]]
+    - [[https://pubsonline.informs.org/doi/pdf/10.1287/opre.49.1.1.11187][Stigler's Diet Problem Revisited]]
+*** Computational exercise: Subsistence food needs                 :noexport:
+    Recapitulation of \cite{stigler45}; linear programming.  For an
+    individual with characteristics $z$ facing prices $p$ obtain
+    subsistence cost function $\phi(p;z)$. 
+
+    Need data on:
+    - Possible foods & food-nutrient conversion ::
+      Note that USDA dataset uses "NDB" codes to identify different
+      kinds of foods; can also map NDB -> UPC for many (mostly processed) foods.
+      - https://ndb.nal.usda.gov/ndb/search/list;
+      - here's documentation of the api: https://ndb.nal.usda.gov/ndb/doc/index
+      - Here's the actual data:
+        https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/
+
+    - Food prices :: 
+      - Safeway data?
+      - Nielsen homescan panel?
+      - CEX?
+      - IRI 
+      - USDA NCPP https://www.cnpp.usda.gov/data
+      - USDA Quarterly Food-at-home price database
+        https://www.ers.usda.gov/data-products/quarterly-food-at-home-price-database/
+        Drawn from Nielsen HomeScan data; aggregated to one of 54
+        "foodgroups".   
+    - Nutritional requirements :: Both  recommended daily allowances
+         (RDA) *plus* "tolerable upper intake levels". 
+         https://ods.od.nih.gov/Health_Information/Dietary_Reference_Intakes.aspx
 ** Consumer Food Demand
-** Hacking for Nutrition
+   In practice, even very poor people seldom choose their diets on
+   the basis of minimum costs.  Instead, people balance nutritional
+   requirements against considerations of cost and what we might call
+   the gastronomical value of different diets.  Here we explore the
+   theory of demand as it pertains to these diets---how does demand
+   for food depend on income, prices, and other observables?  How
+   well (or poorly) do these diets serve nutritional ends?
+*** Readings
+    - Review basic demand theory (e.g., Chapters 3--5 in Nicholson-Snyder) 
+*** Other Readings                                                 :noexport:
+    - Dubois, Griffiths, Nevo
+    - Atkin (2012)
+*** Computational exercise: CFE demands with subsistence           :noexport:
+*** Empirical exercise: Estimate demands in different populations  :noexport:
+    How does demand depend on price?   On income?  On individual
+    characteristics?  On "tastes"?
+**** Data
+     - Indian NSS
+     - US CEX
+     - US Nielsen HomeScan
+*** Empirical exercise: Invert food demands to obtain nutrient demands :noexport:
+    
+** Estimating Food Demand Systems
+   Students will use data on household food expenditures for
+   populations from different countries to estimate systems of food
+   demand, and relate these to demands to the subsistence diets
+   calculated in the earlier topic.
+
+   With these results in hand you will construct aggregate
+   demand functions that allow one to make predictions regarding how
+   aggregate demand for different kinds of foods depends on the
+   distribution of resources and the demographic composition of the
+   global population. 
+** Hacking Food & Nutrition
+
+This project exploits our work on demand for food and is focused on
+evaluating what kinds of *policies* might be effective at improving
+nutritional outcomes for particular populations.  Our earlier work
+addressed the question of how demand for different kinds of food
+depends on prices, budgets, and household characteristics, taking as
+given prices, budgets, and so on.
+
+One of the take-aways from our earlier project is that the food people
+/choose/ to eat may be quite different from the foods that people
+/should/ eat, from a nutritional perspective.   
+
+But if dietary choices respond to prices and budgets, it may be
+possible to manipulate nutritional outcomes by changing either prices
+or budgets.  We can assess the costs of this kind of manipulation
+(e.g., the deadweight cost of a tax or subsidy); where these costs are
+large we can also think about the value of innovation in either the
+desirability or nutritional content of food.
+
+*** Readings
+    - Technical change: [[http://www.plantphysiol.org/content/124/2/487?ijkey=c12c5c79e5b11c10820b21877391b978804dc1c5&keytype2=tf_ipsecsha][Borlaug (2000)]], [[https://arstechnica.com/science/2019/06/why-havent-genetically-engineered-crops-made-food-better/][Ars Technica (2019)]]
+    - Changes in budget: [[https://www.jstor.org/stable/40278509][Deaton-Dreze (2009)]]
+    - Changes in relative prices: [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024386/][Falbe et al (2016)]]
+
 
