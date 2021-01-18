@@ -136,6 +136,10 @@ a knowledge of the programming language
    topic.
 ** Introduction & Collaboration
     - Pandas Introduction  [[[http://datahub.berkeley.edu/user-redirect/interact?account=ligonteaching&repo=EEP153_Materials&branch=master&path=Project0/pandas_introduction.ipynb][ipynb]]] [video]
+    - Navigating this Course GitHub Repository [[[https://bcourses.berkeley.edu/courses/1501525/external_tools/70734][video]]]
+    - Simplified Intro to Collaboration using GitHub [[[https://bcourses.berkeley.edu/courses/1501525/external_tools/70734][video]]]
+    - How to Create a Repo on github.com and Clone it [[[https://bcourses.berkeley.edu/courses/1501525/external_tools/70734][video]]]
+    - Using GitHub with DataHub [[[https://bcourses.berkeley.edu/courses/1501525/external_tools/70734][video]]]
 ** Population & Food Supply
    Students will construct datasets on the
    distribution of characteristics in the
