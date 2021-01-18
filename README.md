@@ -229,6 +229,13 @@ topic.
 
 -   Pandas Introduction  [[ipynb](http://datahub.berkeley.edu/user-redirect/interact?account=ligonteaching&repo=EEP153_Materials&branch=master&path=Project0/pandas_introduction.ipynb)] [video]
 
+-   Navigating this Course GitHub Repository [[video](https://bcourses.berkeley.edu/courses/1501525/external_tools/70734)]
+
+-   Simplified Intro to Collaboration using GitHub [[video](https://bcourses.berkeley.edu/courses/1501525/external_tools/70734)]
+
+-   How to Create a Repo on github.com and Clone it [[video](https://bcourses.berkeley.edu/courses/1501525/external_tools/70734)]
+
+-   Using GitHub with DataHub [[video](https://bcourses.berkeley.edu/courses/1501525/external_tools/70734)]
 
 <a id="orgc2ea47c"></a>
 
