@@ -1,0 +1,135 @@
+#+Title: Plan of the Course
+#+Author: Ethan Ligon
+#+OPTIONS: toc:nil
+#+EPRESENT_FRAME_LEVEL: 3
+
+* Administrivia
+** People
+   - Instructor :: Ethan Ligon 
+                   (=ligon@berkeley.edu=)
+   - Assistants :: 
+     - Becky Cardinali
+     - Cathy Liu
+     - Joyce Li
+     - Sindhu Goli
+     - Swathi Ramaprasad
+
+*** Office Hours/Individual Assistance
+    - Questions/Discussion :: Please use piazza to ask questions of
+      the instructor or assistants; we're likely to miss email.  Note
+      that you can post anonymously and/or privately.
+
+    - Instructor's Office Hours :: You may also make an appointment to
+      speak with Professor Ligon during his office hours via
+      https://are.berkeley.edu/~ligon/appointment.html.
+
+    - Drop in office hours :: Student assistants will staff office
+      hours to help with technical problems at
+      https://berkeley.zoom.us/j/96715456769 on Tuesdays 5--6p and
+      Fridays 10--11p.
+** Prerequisites
+  - Intermediate microeconomics 
+        (e.g., EEP100, Econ100A)
+
+  - Basic =python= 
+     (e.g., Data 8; if no =python= experience 
+      be sure to enroll!)
+
+  - Linear algebra (e.g., Math 54)
+** =piazza=
+   See [[https://piazza.com/berkeley/spring2020/eep153/home][piazza.com/berkeley/spring2021/eep153/home]]
+
+   We'll be using =piazza= for much of our 
+   communication outside of class.
+    - Register for =piazza=
+    - Review [[https://piazza.com/class/k5ojh44byl95n3?cid=18][Piazza Etiquette]]
+    - Points for useful answers to questions raised 
+      on =piazza=.
+* Teams
+  Much of your work in this class will be directed
+  toward completing projects (more on this later).
+     - You'll tackle each project as a team;
+     - Each team will be about 5--7 people;
+     - Teams will re-form for new projects.
+     - Each team should appoint a team manager.
+
+** Thoughts on Agile Teams
+   Our teams are loosely based on ideas from Agile
+   project management.  You may find it useful to
+   review some of the ideas behind this---having
+   experience with Agile team management is
+   something many employers (especially in the Bay
+   area) value.
+
+   - Purpose :: Develop system to solve a problem.
+ 
+   Some things to read:
+      - [[https://agilemanifesto.org][agilemanifesto.org]]
+      - [[https://www.agilelearninglabs.com/resources/scrum-introduction/][Scrum Introduction]]
+** Overview of Agile Team Roles
+   There are three "roles" to consider.
+***  Project Owner 
+     - Has vision for project
+     - Prioritizes stories
+     - Creates acceptance criteria for stories
+     - Is available to answer team questions
+***  "Scrum Master"/ Team Manager
+     Is /not/ the boss.  Should /not/ be main
+     developer.  Leadership provided by influence,
+     not fiat.
+
+     - Scrum expert & advisor
+     - Facilitates scrum meetings
+     - Removes impediments
+     - Coach/Manager
+***  Team Members 
+     Responsibility isn't getting /your/ job done;
+     it's getting /the/ job done.  Team members
+     have total authority over how work gets done.
+
+     - Responsible for figuring out "how to do it"
+     - Estimate time for different stories.
+     - Self-organize to deliver stories
+     - All development work
+     - Responsible for delivering stories
+
+* Grading
+  Grades in the class will depend on the
+  following.
+
+** Team Projects 
+   Each of the projects you complete will end with
+   a short presentation.  Everyone who sees the
+   presentations will provide a ranking; this
+   includes peers in other groups, as well as the
+   instructor, GSI, and student assistant.
+** Peer Evaluation 
+   At the conclusion of each project each member
+   of your team will provide a ranking of all
+   other members on their team.  Large disparities
+   in rankings may result in a discussion with the
+   instructor.
+** Individual assessment 
+   In addition to the evaluation of group projects
+   there will be some evaluation of individual
+   knowledge.  Some of this will be /self/
+   knowledge, in that we'll ask you to predict the
+   assessments that others make of you.  It may also
+   include /ad hoc/ assessments during the semester,
+   as well as opportunities for individual extra
+   credit.
+
+* Projects
+We divide the 15 week semester into 
+"sprints" of about 4 weeks each.  Each
+sprint is a period for a group to work on
+a project; each project has a particular
+set of goals.
+
+Types of goals:
+
+ 1. Deliverables
+ 2. Subject matter knowledge
+ 3. Development of technical skills
+
+
