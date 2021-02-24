@@ -32,8 +32,7 @@ def nutrients(apikey, fdc_id, url = 'https://api.nal.usda.gov/fdc/v1/food/'):
 
     Nutrients are given per 100 g or 100 ml of the food.
     """
-    params = (('api_key', apikey),
-)
+    params = (('api_key', apikey),)
     try:
         r = requests.get(url+"%s" % fdc_id, params = params)
 
@@ -71,6 +70,9 @@ def units(q,u,ureg=ureg):
         return x.to(ureg.deciliter)
 
 def ingredients(apikey, fdc_id, url = 'https://api.nal.usda.gov/fdc/v1/food/'):
+    """
+    Given fdc_id, return ingredients of food.
+    """
     params = (('api_key', apikey),)
     try:
         r = requests.get(url+"%s" % fdc_id, params = params)
