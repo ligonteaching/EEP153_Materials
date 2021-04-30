@@ -19,6 +19,11 @@ def read_sheets(key,json_creds=None,sheet=None):
     scope = ['https://spreadsheets.google.com/feeds',
              'https://www.googleapis.com/auth/drive']
 
+    try: # key may be dict indexed by sheet
+        key = key[sheet]
+    except TypeError: # not a dict?
+        pass
+
     if json_creds is not None:
         credentials = Credentials.from_service_account_file(json_creds,scopes=scope)
         gc = gspread.authorize(credentials)
@@ -55,8 +60,10 @@ import pandas as pd
 from gspread_pandas import Client, Spread
 from gspread_pandas.client import SpreadsheetNotFound
 
-def write_sheet(df,user_email,user_role='reader',json_creds=None,key=None,sheet='My Sheet'):
+def write_sheet(df,user_email,user_role='reader',json_creds=None,key='',sheet='My Sheet'):
     """Write df to google sheet having =key= and sheet name =sheet=.
+ 
+    Alternatively, key may be a title for the spreadsheet.
 
     If sheet is not public, supply a =json= filename for "service
     account" credentials (see
@@ -67,6 +74,11 @@ def write_sheet(df,user_email,user_role='reader',json_creds=None,key=None,sheet=
  
     Ethan Ligon                                         April 2021
     """
+
+    if "http" in key and "/" in key: # Deal with case of a url
+        url = key
+        bits = url.split('/')
+        key = bits[bits.index('d')+1]
 
     scope = ['https://spreadsheets.google.com/feeds',
              'https://www.googleapis.com/auth/drive']
@@ -85,4 +97,6 @@ def write_sheet(df,user_email,user_role='reader',json_creds=None,key=None,sheet=
 
     client.insert_permission(id,user_email,perm_type='user',role=user_role)
 
-    return spread.df_to_sheet(df,sheet=sheet)
+    spread.df_to_sheet(df,sheet=sheet)        
+
+    return id
