@@ -155,7 +155,7 @@ for links to the resources
    about food supply.
 *** Readings
     - Malthus [[https://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-1798-1st-ed#lf0195_head_002][An Essay of the Principle of Population (1798)]]
-    - de Janvry-Sadoulet (2015), [[http://www.piazza.com/class_profile/get_resource/jr496uyyc062tz/jrb6yugn22e4gp][Chapter 11 of Development Economics]]
+    - de Janvry-Sadoulet (2015), [[https://github.com/ligonteaching/EEP153_Materials/blob/master/Project1/Chapter_11_Population15.pdf][Chapter 11 of Development Economics]]
     - Fuglie (2012), https://www.ers.usda.gov/amber-waves/2012/september/global-agriculture/
 *** Empirical exercise: Population pyramids                        :noexport:
     - Deaton (1997)
