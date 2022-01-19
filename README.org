@@ -1,7 +1,7 @@
 #+TITLE: EEP153 Syllabus & Materials
 #+AUTHOR: Ethan Ligon
 #+EMAIL: ligon@berkeley.edu
-#+DATE: Spring 2021
+#+DATE: Spring 2022
 
 * Overview
 This course takes a quantitative, hands-on
@@ -32,18 +32,23 @@ a knowledge of the programming language
    recommended.
 
 ** Schedule
-   Meet two times per week; in 2021 MW 2--4pm (Pacific Time). 
+   Meet two times per week; in 202 M 2--4pm and W 1--3pm (Pacific Time). 
    
    We'll have a mix of lectures and discussion (typically on Mondays)
    and tutorials and group work (typically on Wednesdays).  
 
+   When we're able to meet in person we'll be in Social Sciences 110;
+   until then we'll meet via zoom at
+   https://berkeley.zoom.us/j/91293178788.  Note that to join you'll
+   need to sign-in to zoom using your =berkeley.edu= email.
+
 ** People
    - Ethan Ligon (ligon@berkeley.edu)
    - Becky Cardinali 
-   - Joyce Li 
-   - Cathy Liu 
+   - Ryan Sandan
 *** Office Hours
-   - Professor Ligon will hold "drop in" office hours 
+    See announcement on =piazza=
+
 ** Evaluation (Grading)
    Grading in course depends primarily on /peer evaluation/.  In
    particular, every project will lead to you evaluating your
