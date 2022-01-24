@@ -1,7 +1,7 @@
 #+TITLE: EEP153 Syllabus & Materials
 #+AUTHOR: Ethan Ligon
 #+EMAIL: ligon@berkeley.edu
-#+DATE: Spring 2021
+#+DATE: Spring 2022
 
 * Overview
 This course takes a quantitative, hands-on
@@ -32,18 +32,23 @@ a knowledge of the programming language
    recommended.
 
 ** Schedule
-   Meet two times per week; in 2021 MW 2--4pm (Pacific Time). 
+   Meet two times per week; M 2--4pm and W 1--3pm (Pacific Time). 
    
    We'll have a mix of lectures and discussion (typically on Mondays)
    and tutorials and group work (typically on Wednesdays).  
 
+   When we're able to meet in person we'll be in Social Sciences 110;
+   until then we'll meet via zoom at
+   https://berkeley.zoom.us/j/91293178788.  Note that to join you'll
+   need to sign-in to zoom using your =berkeley.edu= email.
+
 ** People
    - Ethan Ligon (ligon@berkeley.edu)
    - Becky Cardinali 
-   - Joyce Li 
-   - Cathy Liu 
+   - Ryan Sandan
 *** Office Hours
-   - Professor Ligon will hold "drop in" office hours 
+    See announcement on =piazza=
+
 ** Evaluation (Grading)
    Grading in course depends primarily on /peer evaluation/.  In
    particular, every project will lead to you evaluating your
@@ -53,7 +58,7 @@ a knowledge of the programming language
     Everyone will evaluate every team according to several criteria:
 **** Code
      1. Did code work as intended?
-     2. How elegant was the teams' code?
+     2. How elegant was the team's code?
      3. How ambitious were design goals?
      4. How completely were design goals met?
 **** Organization
@@ -76,7 +81,7 @@ a knowledge of the programming language
     according to several criteria:
     1. Quality of work
     2. Could be counted on to complete tasks in a timely fashion?
-    3. Helpful to others win group?
+    3. Helpful to others in group?
     4. Contributed to the smooth working of the team?
 
     In addition, we'll ask you to give some additional information
@@ -135,11 +140,11 @@ a knowledge of the programming language
    complete one structured project for each
    topic.
 ** Introduction & Collaboration
-    - Pandas Introduction  [[[http://datahub.berkeley.edu/user-redirect/interact?account=ligonteaching&repo=EEP153_Materials&branch=master&path=Project0/pandas_introduction.ipynb][ipynb]]] [video]
-    - Navigating this Course GitHub Repository [[[https://bcourses.berkeley.edu/courses/1501525/external_tools/70734][video]]]
-    - Simplified Intro to Collaboration using GitHub [[[https://bcourses.berkeley.edu/courses/1501525/external_tools/70734][video]]]
-    - How to Create a Repo on github.com and Clone it [[[https://bcourses.berkeley.edu/courses/1501525/external_tools/70734][video]]]
-    - Using GitHub with DataHub [[[https://bcourses.berkeley.edu/courses/1501525/external_tools/70734][video]]]
+Students will review introductory materials about coding 
+(Python and Pandas) and potential ways to collaborate 
+(Google Colab, Trello, Git, and Agile). See =piazza= post 
+for links to the resources
+
 ** Population & Food Supply
    Students will construct datasets on the
    distribution of characteristics in the
@@ -150,7 +155,7 @@ a knowledge of the programming language
    about food supply.
 *** Readings
     - Malthus [[https://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-1798-1st-ed#lf0195_head_002][An Essay of the Principle of Population (1798)]]
-    - de Janvry-Sadoulet (2015), [[http://www.piazza.com/class_profile/get_resource/jr496uyyc062tz/jrb6yugn22e4gp][Chapter 11 of Development Economics]]
+    - de Janvry-Sadoulet (2015), [[https://github.com/ligonteaching/EEP153_Materials/blob/master/Project1/Chapter_11_Population15.pdf][Chapter 11 of Development Economics]]
     - Fuglie (2012), https://www.ers.usda.gov/amber-waves/2012/september/global-agriculture/
 *** Empirical exercise: Population pyramids                        :noexport:
     - Deaton (1997)
@@ -229,7 +234,7 @@ a knowledge of the programming language
 ** Estimating Food Demand Systems
    Students will use data on household food expenditures for
    populations from different countries to estimate systems of food
-   demand, and relate these to demands to the subsistence diets
+   demand, and relate these demands to the subsistence diets
    calculated in the earlier topic.
 
    With these results in hand you will construct aggregate
