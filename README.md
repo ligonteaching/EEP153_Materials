@@ -1,31 +1,31 @@
 
 # Table of Contents
 
-1.  [Overview](#orgbcd4d0e)
-2.  [Administrivia](#orgf60cd4d)
-    1.  [Prerequisites](#org28dc3c3)
-    2.  [Schedule](#org405e1db)
-    3.  [People](#orge48ba85)
-        1.  [Office Hours](#org94c6047)
-    4.  [Evaluation (Grading)](#org023c370)
-        1.  [Team evaluations](#org940232e)
-        2.  [Teammate evaluations](#org6ed0b94)
-        3.  [Quality of evaluation](#org09298f9)
-3.  [Projects](#orgfccdca6)
-    1.  [Introduction & Collaboration](#orgf25c32b)
-    2.  [Population & Food Supply](#org6dd0b2a)
-        1.  [Readings](#org280d7b1)
-    3.  [Subsistence Diets](#org4889a6a)
-        1.  [Readings](#orgb31422a)
-    4.  [Consumer Food Demand](#org2a34199)
-        1.  [Readings](#org2179c63)
-    5.  [Estimating Food Demand Systems](#org8cb63d4)
-    6.  [Hacking Food & Nutrition](#org5e589df)
-        1.  [Readings](#orgc4c08bf)
+1.  [Overview](#org19d48d6)
+2.  [Administrivia](#orgfbba1e3)
+    1.  [Prerequisites](#org0ee92c5)
+    2.  [Schedule](#orga04f64b)
+    3.  [People](#org05cf839)
+        1.  [Office Hours](#org38335e0)
+    4.  [Evaluation (Grading)](#org05c1cf8)
+        1.  [Team evaluations](#orgab4ffa1)
+        2.  [Teammate evaluations](#org6ea9000)
+        3.  [Quality of evaluation](#org6c27fab)
+3.  [Projects](#orgec76606)
+    1.  [Introduction & Collaboration](#org595ba72)
+    2.  [Population & Food Supply](#orge46c3fd)
+        1.  [Readings](#orgec19325)
+    3.  [Subsistence Diets](#org1f13a80)
+        1.  [Readings](#orgd4a7290)
+    4.  [Consumer Food Demand](#org363f7f0)
+        1.  [Readings](#org24bf3cd)
+    5.  [Estimating Food Demand Systems](#org02b3227)
+    6.  [Hacking Food & Nutrition](#org0389711)
+        1.  [Readings](#org2cafd95)
 
 
 
-<a id="orgbcd4d0e"></a>
+<a id="org19d48d6"></a>
 
 # Overview
 
@@ -52,12 +52,12 @@ a knowledge of the programming language
 `python`.
 
 
-<a id="orgf60cd4d"></a>
+<a id="orgfbba1e3"></a>
 
 # Administrivia
 
 
-<a id="org28dc3c3"></a>
+<a id="org0ee92c5"></a>
 
 ## Prerequisites
 
@@ -66,7 +66,7 @@ equivalents required; Math 54
 recommended.
 
 
-<a id="org405e1db"></a>
+<a id="orga04f64b"></a>
 
 ## Schedule
 
@@ -81,7 +81,7 @@ until then we'll meet via zoom at
 need to sign-in to zoom using your `berkeley.edu` email.
 
 
-<a id="orge48ba85"></a>
+<a id="org05cf839"></a>
 
 ## People
 
@@ -90,14 +90,14 @@ need to sign-in to zoom using your `berkeley.edu` email.
 -   Ryan Sandan
 
 
-<a id="org94c6047"></a>
+<a id="org38335e0"></a>
 
 ### Office Hours
 
 See announcement on `piazza`
 
 
-<a id="org023c370"></a>
+<a id="org05c1cf8"></a>
 
 ## Evaluation (Grading)
 
@@ -106,7 +106,7 @@ particular, every project will lead to you evaluating your
 classmates in two main ways, and being evaluated yourself in three.
 
 
-<a id="org940232e"></a>
+<a id="orgab4ffa1"></a>
 
 ### Team evaluations
 
@@ -143,7 +143,7 @@ Everyone will evaluate every team according to several criteria:
     impression of their presentation.
 
 
-<a id="org6ed0b94"></a>
+<a id="org6ea9000"></a>
 
 ### Teammate evaluations
 
@@ -166,7 +166,7 @@ And finally, we'll ask you to:
 -   Rank each person according to their overall contribution to the project.
 
 
-<a id="org09298f9"></a>
+<a id="org6c27fab"></a>
 
 ### Quality of evaluation
 
@@ -214,7 +214,7 @@ of your evaluations.
     integrity, honesty, and respect for others").
 
 
-<a id="orgfccdca6"></a>
+<a id="orgec76606"></a>
 
 # Projects
 
@@ -227,7 +227,7 @@ complete one structured project for each
 topic.
 
 
-<a id="orgf25c32b"></a>
+<a id="org595ba72"></a>
 
 ## Introduction & Collaboration
 
@@ -237,7 +237,7 @@ Students will review introductory materials about coding
 for links to the resources
 
 
-<a id="org6dd0b2a"></a>
+<a id="orge46c3fd"></a>
 
 ## Population & Food Supply
 
@@ -250,7 +250,7 @@ separate dataset allows us to think
 about food supply.
 
 
-<a id="org280d7b1"></a>
+<a id="orgec19325"></a>
 
 ### Readings
 
@@ -259,7 +259,7 @@ about food supply.
 -   Fuglie (2012), <https://www.ers.usda.gov/amber-waves/2012/september/global-agriculture/>
 
 
-<a id="org4889a6a"></a>
+<a id="org1f13a80"></a>
 
 ## Subsistence Diets
 
@@ -275,15 +275,15 @@ foods available to the US population along with prices to
 construct estimates of *minimum cost* subsistence diets.  
 
 
-<a id="orgb31422a"></a>
+<a id="orgd4a7290"></a>
 
 ### Readings
 
 -   [Stigler (1945) "The Cost of Subsistence"](https://www.jstor.org/stable/pdf/1231810.pdf?casa_token=WCKDDMzf7CgAAAAA:B1TsWcgpfQQMSXtChZ_VThlodwilTzVbyk-5yj_1U57Kfmth0tE8qV1kcHXDxX1n8Iun8QsEwxAvmLkEc7UtwJd2LPBnRveEWFdrr5OHbeuTDqKqBrE4)
--   [[<https://github.com/ligonteaching/EEP153_Materials/blob/master/Project2/minimum_cost_diet.pdf>][Ligon's notes on the Minimum Cost Diet Problem]
+-   [Ligon's notes on the Minimum Cost Diet Problem](https://github.com/ligonteaching/EEP153_Materials/blob/master/Project2/minimum_cost_diet.pdf)
 
 
-<a id="org2a34199"></a>
+<a id="org363f7f0"></a>
 
 ## Consumer Food Demand
 
@@ -296,14 +296,14 @@ for food depend on income, prices, and other observables?  How
 well (or poorly) do these diets serve nutritional ends?
 
 
-<a id="org2179c63"></a>
+<a id="org24bf3cd"></a>
 
 ### Readings
 
 -   Review basic demand theory (e.g., Chapters 3&#x2013;5 in Nicholson-Snyder)
 
 
-<a id="org8cb63d4"></a>
+<a id="org02b3227"></a>
 
 ## Estimating Food Demand Systems
 
@@ -319,7 +319,7 @@ distribution of resources and the demographic composition of the
 global population. 
 
 
-<a id="org5e589df"></a>
+<a id="org0389711"></a>
 
 ## Hacking Food & Nutrition
 
@@ -342,7 +342,7 @@ large we can also think about the value of innovation in either the
 desirability or nutritional content of food.
 
 
-<a id="orgc4c08bf"></a>
+<a id="org2cafd95"></a>
 
 ### Readings
 
