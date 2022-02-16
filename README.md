@@ -1,44 +1,44 @@
 
 # Table of Contents
 
-1.  [Overview](#org4c0bf34)
-2.  [Administrivia](#org5c39702)
-    1.  [Prerequisites](#orgde3b55e)
-    2.  [Schedule](#orgf327cea)
-    3.  [People](#org9d8fd9b)
-        1.  [Office Hours](#org205c1e5)
-    4.  [Evaluation (Grading)](#orgf596b8a)
-        1.  [Team evaluations](#org7edde73)
-        2.  [Teammate evaluations](#org4e68590)
-        3.  [Quality of evaluation](#org00837c4)
-3.  [Projects](#org72ce5a3)
-    1.  [Introduction & Collaboration](#org91f8249)
-    2.  [Population & Food Supply](#orgfeab915)
-        1.  [Readings](#orgaf195a5)
-    3.  [Subsistence Diets](#org2b3fff5)
-        1.  [Readings](#org5305f91)
-    4.  [Consumer Food Demand](#orgaa29031)
-        1.  [Readings](#org056ec6c)
-    5.  [Estimating Food Demand Systems](#org05161c0)
-    6.  [Hacking Food & Nutrition](#org6f1a6d6)
-        1.  [Readings](#orge426e66)
+1.  [Overview](#orgbcd4d0e)
+2.  [Administrivia](#orgf60cd4d)
+    1.  [Prerequisites](#org28dc3c3)
+    2.  [Schedule](#org405e1db)
+    3.  [People](#orge48ba85)
+        1.  [Office Hours](#org94c6047)
+    4.  [Evaluation (Grading)](#org023c370)
+        1.  [Team evaluations](#org940232e)
+        2.  [Teammate evaluations](#org6ed0b94)
+        3.  [Quality of evaluation](#org09298f9)
+3.  [Projects](#orgfccdca6)
+    1.  [Introduction & Collaboration](#orgf25c32b)
+    2.  [Population & Food Supply](#org6dd0b2a)
+        1.  [Readings](#org280d7b1)
+    3.  [Subsistence Diets](#org4889a6a)
+        1.  [Readings](#orgb31422a)
+    4.  [Consumer Food Demand](#org2a34199)
+        1.  [Readings](#org2179c63)
+    5.  [Estimating Food Demand Systems](#org8cb63d4)
+    6.  [Hacking Food & Nutrition](#org5e589df)
+        1.  [Readings](#orgc4c08bf)
 
 
 
-<a id="org4c0bf34"></a>
+<a id="orgbcd4d0e"></a>
 
 # Overview
 
 This course takes a quantitative, hands-on
 approach to understanding the challenges of
 feeding the human population of the planet
-Earth.  We&rsquo;ll discuss topics of nutrition,
+Earth.  We'll discuss topics of nutrition,
 subsistence food consumption, and consumer
 demand for food to develop our
 understanding of the current situation.
-We&rsquo;ll then develop both theories and
+We'll then develop both theories and
 computer models of population dynamics
-taking into account people&rsquo;s decisions
+taking into account people's decisions
 about child-bearing, changes in mortality,
 and changes in food supply in order to
 learn something about the future of food.
@@ -52,12 +52,12 @@ a knowledge of the programming language
 `python`.
 
 
-<a id="org5c39702"></a>
+<a id="orgf60cd4d"></a>
 
 # Administrivia
 
 
-<a id="orgde3b55e"></a>
+<a id="org28dc3c3"></a>
 
 ## Prerequisites
 
@@ -66,22 +66,22 @@ equivalents required; Math 54
 recommended.
 
 
-<a id="orgf327cea"></a>
+<a id="org405e1db"></a>
 
 ## Schedule
 
 Meet two times per week; M 2&#x2013;4pm and W 1&#x2013;3pm (Pacific Time). 
 
-We&rsquo;ll have a mix of lectures and discussion (typically on Mondays)
+We'll have a mix of lectures and discussion (typically on Mondays)
 and tutorials and group work (typically on Wednesdays).  
 
-When we&rsquo;re able to meet in person we&rsquo;ll be in Social Sciences 110;
-until then we&rsquo;ll meet via zoom at
-<https://berkeley.zoom.us/j/91293178788>.  Note that to join you&rsquo;ll
+When we're able to meet in person we'll be in Social Sciences 110;
+until then we'll meet via zoom at
+<https://berkeley.zoom.us/j/91293178788>.  Note that to join you'll
 need to sign-in to zoom using your `berkeley.edu` email.
 
 
-<a id="org9d8fd9b"></a>
+<a id="orge48ba85"></a>
 
 ## People
 
@@ -90,14 +90,14 @@ need to sign-in to zoom using your `berkeley.edu` email.
 -   Ryan Sandan
 
 
-<a id="org205c1e5"></a>
+<a id="org94c6047"></a>
 
 ### Office Hours
 
 See announcement on `piazza`
 
 
-<a id="orgf596b8a"></a>
+<a id="org023c370"></a>
 
 ## Evaluation (Grading)
 
@@ -106,7 +106,7 @@ particular, every project will lead to you evaluating your
 classmates in two main ways, and being evaluated yourself in three.
 
 
-<a id="org7edde73"></a>
+<a id="org940232e"></a>
 
 ### Team evaluations
 
@@ -115,7 +115,7 @@ Everyone will evaluate every team according to several criteria:
 1.  Code
 
     1.  Did code work as intended?
-    2.  How elegant was the team&rsquo;s code?
+    2.  How elegant was the team's code?
     3.  How ambitious were design goals?
     4.  How completely were design goals met?
 
@@ -139,11 +139,11 @@ Everyone will evaluate every team according to several criteria:
 
 5.  Ranking
 
-    Finally, we&rsquo;ll ask you to rank all teams according to your overall
+    Finally, we'll ask you to rank all teams according to your overall
     impression of their presentation.
 
 
-<a id="org4e68590"></a>
+<a id="org6ed0b94"></a>
 
 ### Teammate evaluations
 
@@ -155,37 +155,37 @@ according to several criteria:
 3.  Helpful to others in group?
 4.  Contributed to the smooth working of the team?
 
-In addition, we&rsquo;ll ask you to give some additional information
+In addition, we'll ask you to give some additional information
 about each of your teammates, indicating:
 
--   What were each person&rsquo;s main strengths?
+-   What were each person's main strengths?
 -   Would you like to work with this person again?
 
-And finally, we&rsquo;ll ask you to:
+And finally, we'll ask you to:
 
 -   Rank each person according to their overall contribution to the project.
 
 
-<a id="org00837c4"></a>
+<a id="org09298f9"></a>
 
 ### Quality of evaluation
 
 Your own evaluations are an important individual contribution to
 the class, and the quality of your evaluations will affect your
-grade.  There are three criteria we&rsquo;ll use in judging the quality
+grade.  There are three criteria we'll use in judging the quality
 of your evaluations.
 
-1.  Prediction of others&rsquo; evaluations of you
+1.  Prediction of others' evaluations of you
 
-    You&rsquo;ll provide evaluations not only of **other** teams, but also of
-    your own team.  And you&rsquo;ll evaluate not just your teammates&rsquo;
+    You'll provide evaluations not only of **other** teams, but also of
+    your own team.  And you'll evaluate not just your teammates'
     contribution to the project, but also your **own** contribution.
     
     Your self-evaluations will affect your grade.  However, the *way*
     in which these will affect your grade will depend **not** on how
     good you say you are, but how accurately you **predict** how others
     evaluate you.  In particular, the closer your guesses about
-    others&rsquo; evaluations are to the *average* of what others give you
+    others' evaluations are to the *average* of what others give you
     the higher your grade.
 
 2.  Information in your own evaluations of others
@@ -205,29 +205,29 @@ of your evaluations.
     Your evaluations must be honest, in the sense that they are
     attempts to fairly evaluate the efforts of others and of your own
     efforts.  Ideally there will be broad agreement across different
-    people&rsquo;s evaluations.  If your evaluations are \`outliers&rsquo; then
+    people's evaluations.  If your evaluations are \`outliers' then
     this will *negatively* effect your grade.  Further, if upon
-    examination it appears that you&rsquo;ve used your evaluations
+    examination it appears that you've used your evaluations
     strategically there may be further repercussions, most
-    particularly if the manner in which you&rsquo;ve evaluated others
-    violates Berkeley&rsquo;s Honor Code (i.e., you must &ldquo;act with
-    integrity, honesty, and respect for others&rdquo;).
+    particularly if the manner in which you've evaluated others
+    violates Berkeley's Honor Code (i.e., you must "act with
+    integrity, honesty, and respect for others").
 
 
-<a id="org72ce5a3"></a>
+<a id="orgfccdca6"></a>
 
 # Projects
 
 The course revolves around a sequence of
 topics, each exploring a substantive
-issue involved in &ldquo;feeding the planet&rdquo;
+issue involved in "feeding the planet"
 and each introducing novel tools.
 Students will work in small groups to
 complete one structured project for each
 topic.
 
 
-<a id="org91f8249"></a>
+<a id="orgf25c32b"></a>
 
 ## Introduction & Collaboration
 
@@ -237,7 +237,7 @@ Students will review introductory materials about coding
 for links to the resources
 
 
-<a id="orgfeab915"></a>
+<a id="org6dd0b2a"></a>
 
 ## Population & Food Supply
 
@@ -250,7 +250,7 @@ separate dataset allows us to think
 about food supply.
 
 
-<a id="orgaf195a5"></a>
+<a id="org280d7b1"></a>
 
 ### Readings
 
@@ -259,7 +259,7 @@ about food supply.
 -   Fuglie (2012), <https://www.ers.usda.gov/amber-waves/2012/september/global-agriculture/>
 
 
-<a id="org2b3fff5"></a>
+<a id="org4889a6a"></a>
 
 ## Subsistence Diets
 
@@ -267,7 +267,7 @@ Every living human has some minimal, or subsistence, nutritional
 requirements; should these not be satisfied health and even life
 may be threatened.  People satisfy these needs by eating various
 kinds of food, but there may be many different food diets which
-satisfy people&rsquo;s subsistence requirements.  One criterion for
+satisfy people's subsistence requirements.  One criterion for
 choosing among these diets is *cost*. 
 
 In this topic students use contemporary data on different kinds of
@@ -275,15 +275,15 @@ foods available to the US population along with prices to
 construct estimates of *minimum cost* subsistence diets.  
 
 
-<a id="org5305f91"></a>
+<a id="orgb31422a"></a>
 
 ### Readings
 
--   [Stigler (1945) &ldquo;The Cost of Subsistence&rdquo;](https://www.jstor.org/stable/pdf/1231810.pdf?casa_token=WCKDDMzf7CgAAAAA:B1TsWcgpfQQMSXtChZ_VThlodwilTzVbyk-5yj_1U57Kfmth0tE8qV1kcHXDxX1n8Iun8QsEwxAvmLkEc7UtwJd2LPBnRveEWFdrr5OHbeuTDqKqBrE4)
--   [Ligon&rsquo;s notes on the Minimum Cost Diet Problem](https://piazza-resources.s3.amazonaws.com/jr496uyyc062tz/jsb2e24wylb64e/minimum_cost_diet.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAR6AWVCBXXTXJNAXC%252F20190424%252Fus-east-1%252Fs3%252Faws4_request&X-Amz-Date=20190424T204202Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=AgoJb3JpZ2luX2VjEAMaCXVzLWVhc3QtMSJIMEYCIQCk4zh%252Fx1OmB7zaD1m%252F%252Fun7szwA4icbeOeplvEx%252FkLC5wIhAJ78MWuElE8Cm9n73WNwN%252FUy4NI9dBGCd3qyu5vnDSgMKuMDCNv%252F%252F%252F%252F%252F%252F%252F%252F%252F%252FwEQABoMMTMzMTkxNTAzOTgzIgywQbn9l6mWXqzQCMcqtwO5Erkw270lupUuzD8zc6aCuKtu3wTzFkMcc1N7BGrlFoI9OO6p8Oj9IwrBBIvQTRb17Cpt7TKnXWsAe7RZp4EvAl7d9FMSiIze%252BD0O1sBI4FBag73gKAVvhtI3UiWUfVUkgn6pIlMqiMow0eCSKlUR2Dxv%252FX%252FZytGa45MbZKO6dPZVHDhi0laNvOo6fRxNo%252FKDGbTcmaP8dwSwLXt%252Fxa6Bf10FLCFABKRnAE1sM9hOatwzlrbAiq8lGUpG6UFOP4ny4FU0e0Xa0kGsGzon%252FjEpNuIOUBQqcAE0hM2dA9vjvXqj2UlN723ecTvRqP%252BX0ys%252FU1WORasUum7wrgAY9ZNZQ2b6HBse1L1dCIAM1RGFiyy4s417i5iM%252BH1VlMQTv36aeCxBAV%252FmYBg%252BF0d30DH3PhPjFrvWri4j40GFsDytioWfcJXuQtAX28NoYd1UqfCzClZ8lZJ%252BaN84yg8VVjj8YtVCQAsrovvQTvP9zWkB3JsR9V%252FQaRoar9dCgSUDKoFl0dl6etNVDqbwhEN31ikC7dqtUx5Qb7Y09fdPpV%252FsJUSv7bMeoKjIyZzJlD9JhH4MU9X0nVW4MNfOguYFOrMB2YNnmq2%252Fam2pZHo%252B8i1fuw6PHd8THxZ6pzXq6PvUzk%252F9l3XEv2kSt7RwChbg1PZeYvD1wKzi%252BiB6F98V5evv2CaCzpeXwW2fSunaxE3M3uvRuYVYRP9XEZshjGbga9G1pgM%252F4LneC7hhgyehaADntjACrR%252BG%252BKy%252Bg7MHPMbJwg8hCKdCRd5T%252B1OTHgpV8kQZyIb2AdtePKvmixHRKCJIxLfMhHGrL%252BJj6YtG%252BJzllrtUUbw%253D&X-Amz-Signature=97529f8126a21657cebb8b3d269fde748f5a11088c4dfa12e8e91cd651d1660f)
+-   [Stigler (1945) "The Cost of Subsistence"](https://www.jstor.org/stable/pdf/1231810.pdf?casa_token=WCKDDMzf7CgAAAAA:B1TsWcgpfQQMSXtChZ_VThlodwilTzVbyk-5yj_1U57Kfmth0tE8qV1kcHXDxX1n8Iun8QsEwxAvmLkEc7UtwJd2LPBnRveEWFdrr5OHbeuTDqKqBrE4)
+-   [[<https://github.com/ligonteaching/EEP153_Materials/blob/master/Project2/minimum_cost_diet.pdf>][Ligon's notes on the Minimum Cost Diet Problem]
 
 
-<a id="orgaa29031"></a>
+<a id="org2a34199"></a>
 
 ## Consumer Food Demand
 
@@ -296,14 +296,14 @@ for food depend on income, prices, and other observables?  How
 well (or poorly) do these diets serve nutritional ends?
 
 
-<a id="org056ec6c"></a>
+<a id="org2179c63"></a>
 
 ### Readings
 
 -   Review basic demand theory (e.g., Chapters 3&#x2013;5 in Nicholson-Snyder)
 
 
-<a id="org05161c0"></a>
+<a id="org8cb63d4"></a>
 
 ## Estimating Food Demand Systems
 
@@ -319,7 +319,7 @@ distribution of resources and the demographic composition of the
 global population. 
 
 
-<a id="org6f1a6d6"></a>
+<a id="org5e589df"></a>
 
 ## Hacking Food & Nutrition
 
@@ -342,7 +342,7 @@ large we can also think about the value of innovation in either the
 desirability or nutritional content of food.
 
 
-<a id="orge426e66"></a>
+<a id="orgc4c08bf"></a>
 
 ### Readings
 
