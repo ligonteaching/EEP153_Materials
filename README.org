@@ -173,8 +173,10 @@ for links to the resources
    foods available to the US population along with prices to
    construct estimates of /minimum cost/ subsistence diets.  
 *** Readings
-    - [[https://www.jstor.org/stable/pdf/1231810.pdf?casa_token=WCKDDMzf7CgAAAAA:B1TsWcgpfQQMSXtChZ_VThlodwilTzVbyk-5yj_1U57Kfmth0tE8qV1kcHXDxX1n8Iun8QsEwxAvmLkEc7UtwJd2LPBnRveEWFdrr5OHbeuTDqKqBrE4][Stigler (1945) "The Cost of Subsistence"]]
-    - [[https://github.com/ligonteaching/EEP153_Materials/blob/master/Project2/minimum_cost_diet.pdf][Ligon's notes on the Minimum Cost Diet Problem]]
+    - [[https://github.com/ligonteaching/EEP153_Materials/blob/master/Project2/stigler45.pdf][Stigler (1945) "The Cost of Subsistence"]]
+    - [[https://github.com/ligonteaching/EEP153_Materials/blob/master/Project2/dantzig90.pdf][Dantzig (1990) "The Diet Problem"]]
+
+
 *** Other resources                                                :noexport:
     :PROPERTIES:
     :ID:       3c8197f3-98f8-4fe8-a8a6-383c671bb77a
