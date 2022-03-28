@@ -4,6 +4,8 @@
 # Project3/prices.ipynb: 1
 CFEDemands >= 0.4.1
 
+ConsumerDemands
+
 # Project3/eep153_tools.py: 1
 gspread >= 4.0.1
 
