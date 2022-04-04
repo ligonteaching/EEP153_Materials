@@ -9,6 +9,8 @@ ConsumerDemands
 # Project3/eep153_tools.py: 1
 gspread >= 4.0.1
 
+gspread_pandas >= 3.2
+
 # Project3/food_demand.ipynb: 133,149,174,176,203,222
 matplotlib >= 3.3.4
 
