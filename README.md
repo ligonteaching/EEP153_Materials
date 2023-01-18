@@ -100,7 +100,7 @@ We&rsquo;ll meet in person in Social Sciences 110.   Office hours may be in pers
 
 -   **Drop in office hours:** Staff office
     hours to help with technical problems at on Thursdays 11-12p.
-
+    Eli: https://berkeley.zoom.us/j/95359027000
 
 <a id="org813d941"></a>
 
