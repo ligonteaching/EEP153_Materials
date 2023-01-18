@@ -1,7 +1,7 @@
 #+TITLE: EEP153 Syllabus & Materials
 #+AUTHOR: Ethan Ligon
 #+EMAIL: ligon@berkeley.edu
-#+DATE: Spring 2022
+#+DATE: Spring 2023
 
 * Overview
 This course takes a quantitative, hands-on
@@ -37,17 +37,23 @@ a knowledge of the programming language
    We'll have a mix of lectures and discussion (typically on Mondays)
    and tutorials and group work (typically on Wednesdays).  
 
-   When we're able to meet in person we'll be in Social Sciences 110;
-   until then we'll meet via zoom at
-   https://berkeley.zoom.us/j/91293178788.  Note that to join you'll
-   need to sign-in to zoom using your =berkeley.edu= email.
+  We'll meet in person in Social Sciences 110.   Office hours may be in person or virtual.
 
 ** People
-   - Ethan Ligon (ligon@berkeley.edu)
-   - Becky Cardinali 
-   - Ryan Sandan
-*** Office Hours
-    See announcement on =piazza=
+   - Instructor :: Ethan Ligon (ligon@berkeley.edu)
+   - GSI :: Eli Lazarus (lazarus.eli@berkeley.edu)
+
+*** Office Hours/Individual Assistance
+    - Questions/Discussion :: Please use [[https://edstem.org]] to ask questions of
+      the instructor or assistants; we're likely to miss email.  Note
+      that you can post anonymously and/or privately.
+
+    - Instructor's Office Hours :: You may also make an appointment to
+      speak with Professor Ligon during his office hours via
+      https://are.berkeley.edu/~ligon/appointment.html.
+
+    - Drop in office hours :: Staff office
+      hours to help with technical problems at on Thursdays 11-12p.
 
 ** Evaluation (Grading)
    Grading in course depends primarily on /peer evaluation/.  In
@@ -55,7 +61,7 @@ a knowledge of the programming language
    classmates in two main ways, and being evaluated yourself in three.
 
 *** Team evaluations
-    Everyone will evaluate every team according to several criteria:
+    Everyone will evaluate every team according to several criteria.  For example,
 **** Code
      1. Did code work as intended?
      2. How elegant was the team's code?
@@ -142,8 +148,8 @@ a knowledge of the programming language
 ** Introduction & Collaboration
 Students will review introductory materials about coding 
 (Python and Pandas) and potential ways to collaborate 
-(Google Colab, Trello, Git, and Agile). See =piazza= post 
-for links to the resources
+(Google Colab, Trello, Git, and Agile). See online posts
+for links to resources.
 
 ** Population & Food Supply
    Students will construct datasets on the
