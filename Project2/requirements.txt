@@ -12,7 +12,8 @@ pint >= 0.18
 # Project2/fooddatacentral.py: 12
 requests >= 2.26.0
 
+python-gnupg
+
 eep153_tools
 
-gnupg
-
+fooddatacentral
