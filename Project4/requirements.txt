@@ -3,7 +3,8 @@
 # Project3/food_demand.ipynb: 2,64,131,147,165,201,220
 # Project3/prices.ipynb: 1
 CFEDemands >= 0.4.1
-
+#gspread <= 4.0.1
+gspread >= 5.0.1
 
 # Project3/eep153_tools.py: 2
 oauth2client >= 4.1.3
