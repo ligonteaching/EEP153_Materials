@@ -1,7 +1,7 @@
 #+TITLE: EEP153 Syllabus & Materials
 #+AUTHOR: Ethan Ligon
 #+EMAIL: ligon@berkeley.edu
-#+DATE: Spring 2023
+#+DATE: Spring 2024
 
 * Overview
 This course takes a quantitative, hands-on
@@ -32,7 +32,7 @@ a knowledge of the programming language
    recommended.
 
 ** Schedule
-   Meet two times per week; M 2--4pm and W 1--3pm (Pacific Time). 
+   Meet two times per week; T 4--6pm and F 2--4pm (Pacific Time).
    
    We'll have a mix of lectures and discussion (typically on Mondays)
    and tutorials and group work (typically on Wednesdays).  
@@ -41,7 +41,8 @@ a knowledge of the programming language
 
 ** People
    - Instructor :: Ethan Ligon (ligon@berkeley.edu)
-   - GSI :: Eli Lazarus (lazarus.eli@berkeley.edu)
+   - GSI :: Michelle Layvant (mlayvant@berkeley.edu)
+   - Tutor :: Amy Ai (amyai227@berkeley.edu)
 
 *** Office Hours/Individual Assistance
     - Questions/Discussion :: Please use [[https://edstem.org]] to ask questions of
@@ -53,7 +54,7 @@ a knowledge of the programming language
       https://are.berkeley.edu/~ligon/appointment.html.
 
     - Drop in office hours :: Staff office
-      hours to help with technical problems at on Thursdays 11-12p.
+      hours to help with technical problems.
 
 ** Evaluation (Grading)
    Grading in course depends primarily on /peer evaluation/.  In
@@ -76,7 +77,7 @@ a knowledge of the programming language
      2. How polished was the presentation?
 **** Overall
      1. If you were in the position of needing to hire a team to do
-        population analysis, would you hire this team?
+        this sort of analysis, would you hire this team?
      2. Other constructive comments & criticisms.
 **** Ranking
      Finally, we'll ask you to rank all teams according to your overall
@@ -135,7 +136,17 @@ a knowledge of the programming language
      particularly if the manner in which you've evaluated others
      violates Berkeley's Honor Code (i.e., you must "act with
      integrity, honesty, and respect for others").
-
+*** Instructors' Evaluation
+For each project, you will also be evaluated in terms of your /engagement/.  This is the one category which will be evaluated solely by instructors and GSIs, rather than by your peers.  Particular things we will look at:
+ - Number and quality of comments, etc. on [[https://edstem.org][edstem.org]].
+ - Number and quality  of comments and issues on github repositories (both yours and others).
+ - Number and quality of comments or PRs specifically pertaining to issues/bugs in code or material in EEP153 repos, including
+   - https://github.com/ligonteaching/EEP153_Materials/issues
+   - https://github.com/ligonteaching/EEP153_Exercises/issues
+   - https://github.com/ligon/Population
+   - https://github.com/ligon/MinCostDiet
+   - https://github.com/ligon/FoodDemand
+   - https://github.com/ligon/HackingFood
 
 * Projects
    The course revolves around a sequence of
@@ -148,7 +159,7 @@ a knowledge of the programming language
 ** Introduction & Collaboration
 Students will review introductory materials about coding 
 (Python and Pandas) and potential ways to collaborate 
-(Google Colab, Trello, Git, and Agile). See online posts
+(Git, Google Colab, Trello, and Agile). See online posts
 for links to resources.
 
 ** Population & Food Supply
@@ -273,7 +284,4 @@ desirability or nutritional content of food.
 *** Readings
     - Technical change: [[http://www.plantphysiol.org/content/124/2/487?ijkey=c12c5c79e5b11c10820b21877391b978804dc1c5&keytype2=tf_ipsecsha][Borlaug (2000)]], [[https://arstechnica.com/science/2019/06/why-havent-genetically-engineered-crops-made-food-better/][Ars Technica (2019)]]
     - Changes in budget: [[https://www.jstor.org/stable/40278509][Deaton-Dreze (2009)]]
-
     - Changes in relative prices: [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024386/][Falbe et al (2016)]]
-
-
