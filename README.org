@@ -34,8 +34,8 @@ a knowledge of the programming language
 ** Schedule
    Meet two times per week; T 4--6pm and F 2--4pm (Pacific Time).
    
-   We'll have a mix of lectures and discussion (typically on Mondays)
-   and tutorials and group work (typically on Wednesdays).  
+   We'll have a mix of lectures and discussion (typically on Tuesdays)
+   and tutorials and group work (typically on Fridays).
 
   We'll meet in person in Social Sciences 110.   Office hours may be in person or virtual.
 
@@ -79,8 +79,7 @@ a knowledge of the programming language
      1. If you were in the position of needing to hire a team to do
         this sort of analysis, would you hire this team?
      2. Other constructive comments & criticisms.
-**** Ranking
-     Finally, we'll ask you to rank all teams according to your overall
+     3. Finally, we'll ask you to rank all teams according to your overall
      impression of their presentation.
 
 *** Teammate evaluations
@@ -130,7 +129,7 @@ a knowledge of the programming language
      attempts to fairly evaluate the efforts of others and of your own
      efforts.  Ideally there will be broad agreement across different
      people's evaluations.  If your evaluations are `outliers' then
-     this will /negatively/ effect your grade.  Further, if upon
+     this may /negatively/ effect your grade.  Further, if upon
      examination it appears that you've used your evaluations
      strategically there may be further repercussions, most
      particularly if the manner in which you've evaluated others
