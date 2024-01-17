@@ -53,8 +53,7 @@ a knowledge of the programming language
       speak with Professor Ligon during his office hours via
       https://are.berkeley.edu/~ligon/appointment.html.
 
-    - Drop in office hours :: Staff office
-      hours to help with technical problems.
+    - Office hours (by appointment) :: Make an appointment with Michelle for help with technical or other problems.
 
 ** Evaluation (Grading)
    Grading in course depends primarily on /peer evaluation/.  In
