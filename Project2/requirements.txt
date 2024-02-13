@@ -10,3 +10,7 @@ python-gnupg
 eep153_tools
 
 fooddatacentral
+
+gspread
+
+gspread_pandas
