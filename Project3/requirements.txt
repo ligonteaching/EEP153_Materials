@@ -2,7 +2,7 @@
 
 # Project3/food_demand.ipynb: 2,64,131,147,165,201,220
 # Project3/prices.ipynb: 1
-CFEDemands >= 0.4.1
+CFEDemands >= 0.6
 
 ConsumerDemands
 
