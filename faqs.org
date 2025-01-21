@@ -1,0 +1,28 @@
+#+title: FAQs
+
+* Organization
+** Do I need to come to class?
+The course is organized around a sequence of team projects, and most teamwork is done in class.  So attendance is really critical.
+** So you  take attendance?
+No, but your /team/ is likely to keep track of your attendance, and they may take a dim view of teammates who aren't available to help.
+** Are lectures recorded?
+No.
+** How are teams selected?
+People are randomly assigned to teams at the beginning of each project.
+** What if I join class late, after the random assignment?
+You'll be assigned to a small team.
+
+* Grading
+** What determines my course grade?
+The class basically consists of a sequence of four team projects, and both your team and individual performance are evaluated.  These evaluations are the most important determinant of your overall course grade.
+** Aside from evaluations on projects, what else determines my grade?
+There will be some opportunities to earn "extra credit", independent of any project.  But the contribution of these to your overall grade will be small.
+** Isn't there a final exam?
+There is a final exam,  but taking it is optional.  If you don't elect to take the exam, then your course grade will be (almost entirely) determined by the assessments of your peers on each of the projects.
+** What!?  I'm graded by my peers?
+Yes.  And you in turn will be expected to provide assessments of /your/ peers which will influence their grades.
+** What prevents students from just giving everyone the best assessments possible?
+Broadly speaking, the assessment process is designed so that it's in each individual's self-interest to give truthful responses to the assessment questions.  For those of you have had any game theory, truthful reporting is a dominant strategy.  Also, more directly, some of the assessment questions require you to /rank/ others, and only one person can be first.
+** I'm not comfortable with peer assessments, and think I'll take the final exam.  How is it administered?
+Well, I've been teaching this class since 2017, and so far no one has ever chosen to take the final.  But someone did, it would involve an oral examination during finals week.
+* Administrivia
