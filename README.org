@@ -1,7 +1,7 @@
 #+TITLE: EEP153 Syllabus & Materials
 #+AUTHOR: Ethan Ligon
 #+EMAIL: ligon@berkeley.edu
-#+DATE: Spring 2024
+#+DATE: Spring 2025
 
 * Overview
 This course takes a quantitative, hands-on
@@ -32,17 +32,17 @@ a knowledge of the programming language
    recommended.
 
 ** Schedule
-   Meet two times per week; T 4--6pm and F 2--4pm (Pacific Time).
+   Meet two times per week; Tuesdays and Thursdays 10am--12pm (Pacific Time).
    
    We'll have a mix of lectures and discussion (typically on Tuesdays)
-   and tutorials and group work (typically on Fridays).
+   and tutorials and group work (typically on Thursdays).
 
   We'll meet in person in Social Sciences 110.   Office hours may be in person or virtual.
 
 ** People
    - Instructor :: Ethan Ligon (ligon@berkeley.edu)
-   - GSI :: Michelle Layvant (mlayvant@berkeley.edu)
-   - Tutor :: Amy Ai (amyai227@berkeley.edu)
+   - GSI :: Scott Kjorlien (scottkjorlien@berkeley.edu)
+   - Tutor :: Faye Fang (ce_fang@berkeley.edu)
 
 *** Office Hours/Individual Assistance
     - Questions/Discussion :: Please use [[https://edstem.org]] to ask questions of
@@ -53,7 +53,7 @@ a knowledge of the programming language
       speak with Professor Ligon during his office hours via
       https://are.berkeley.edu/~ligon/appointment.html.
 
-    - Office hours (by appointment) :: Make an appointment with Michelle for help with technical or other problems.
+    - Office hours (GSI) :: Scott will hold an office hour Thursdays 1--2p in Giannini 203, or by appointment.
 
 ** Evaluation (Grading)
    Grading in course depends primarily on /peer evaluation/.  In
@@ -172,6 +172,10 @@ for links to resources.
     - Malthus [[https://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-1798-1st-ed#lf0195_head_002][An Essay of the Principle of Population (1798)]]
     - de Janvry-Sadoulet (2015), [[https://github.com/ligonteaching/EEP153_Materials/blob/master/Project1/Chapter_11_Population15.pdf][Chapter 11 of Development Economics]]
     - Fuglie (2012), https://www.ers.usda.gov/amber-waves/2012/september/global-agriculture/
+    - NYTimes "What to eat on a burning planet" series, especially:
+      - https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html
+      - https://www.nytimes.com/2024/12/13/opinion/food-agriculture-factory-farms-climate-change.html
+
 *** Empirical exercise: Population pyramids                        :noexport:
     - Deaton (1997)
     - https://github.com/afolaborn/Python_Jupyter_Notebook/blob/master/Population-Pyramid/Population_Pyramid_Final.ipynb

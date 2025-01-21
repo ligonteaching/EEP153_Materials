@@ -1,32 +1,32 @@
 
 # Table of Contents
 
-1.  [Overview](#orge656cf8)
-2.  [Administrivia](#org2148f24)
-    1.  [Prerequisites](#orgf00268a)
-    2.  [Schedule](#org5a88d60)
-    3.  [People](#org93ecabe)
-        1.  [Office Hours/Individual Assistance](#org0465ed2)
-    4.  [Evaluation (Grading)](#org079b2b8)
-        1.  [Team evaluations](#org2151a6e)
-        2.  [Teammate evaluations](#org13e5590)
-        3.  [Quality of evaluation](#org0990d07)
-        4.  [Instructors&rsquo; Evaluation](#org4d36154)
-3.  [Projects](#org5562f41)
-    1.  [Introduction & Collaboration](#org0a5d029)
-    2.  [Population & Food Supply](#org49ebbb4)
-        1.  [Readings](#org80cbb2b)
-    3.  [Subsistence Diets](#org90e7feb)
-        1.  [Readings](#org96ab919)
-    4.  [Consumer Food Demand](#orgba63acb)
-        1.  [Readings](#org39a0cb1)
-    5.  [Estimating Food Demand Systems](#orgdafa8c6)
-    6.  [Hacking Food & Nutrition](#org51e08ca)
-        1.  [Readings](#org085b19e)
+1.  [Overview](#orgb313481)
+2.  [Administrivia](#org41a1b98)
+    1.  [Prerequisites](#org6e9088a)
+    2.  [Schedule](#org59bd50b)
+    3.  [People](#orga0545c5)
+        1.  [Office Hours/Individual Assistance](#org38206d5)
+    4.  [Evaluation (Grading)](#orgf5c24d0)
+        1.  [Team evaluations](#org6bb5d53)
+        2.  [Teammate evaluations](#org1fe9dbc)
+        3.  [Quality of evaluation](#org0a9c115)
+        4.  [Instructors&rsquo; Evaluation](#org2fbe0ec)
+3.  [Projects](#org0205c03)
+    1.  [Introduction & Collaboration](#orgbbe8634)
+    2.  [Population & Food Supply](#org0d90f33)
+        1.  [Readings](#org2937f4e)
+    3.  [Subsistence Diets](#org2d3b57b)
+        1.  [Readings](#org433c78a)
+    4.  [Consumer Food Demand](#orgef30ba3)
+        1.  [Readings](#org8a7e325)
+    5.  [Estimating Food Demand Systems](#org1cf13ce)
+    6.  [Hacking Food & Nutrition](#org2909bbc)
+        1.  [Readings](#org4fba24d)
 
 
 
-<a id="orge656cf8"></a>
+<a id="orgb313481"></a>
 
 # Overview
 
@@ -53,12 +53,12 @@ a knowledge of the programming language
 `python`.
 
 
-<a id="org2148f24"></a>
+<a id="org41a1b98"></a>
 
 # Administrivia
 
 
-<a id="orgf00268a"></a>
+<a id="org6e9088a"></a>
 
 ## Prerequisites
 
@@ -67,28 +67,28 @@ equivalents required; Math 54
 recommended.
 
 
-<a id="org5a88d60"></a>
+<a id="org59bd50b"></a>
 
 ## Schedule
 
-Meet two times per week; T 4&#x2013;6pm and F 2&#x2013;4pm (Pacific Time).
+Meet two times per week; Tuesdays and Thursdays 10am&#x2013;12pm (Pacific Time).
 
 We&rsquo;ll have a mix of lectures and discussion (typically on Tuesdays)
-and tutorials and group work (typically on Fridays).
+and tutorials and group work (typically on Thursdays).
 
 We&rsquo;ll meet in person in Social Sciences 110.   Office hours may be in person or virtual.
 
 
-<a id="org93ecabe"></a>
+<a id="orga0545c5"></a>
 
 ## People
 
 -   **Instructor:** Ethan Ligon (ligon@berkeley.edu)
--   **GSI:** Michelle Layvant (mlayvant@berkeley.edu)
--   **Tutor:** Amy Ai (amyai227@berkeley.edu)
+-   **GSI:** Scott Kjorlien (scottkjorlien@berkeley.edu)
+-   **Tutor:** Faye Fang (ce<sub>fang</sub>@berkeley.edu)
 
 
-<a id="org0465ed2"></a>
+<a id="org38206d5"></a>
 
 ### Office Hours/Individual Assistance
 
@@ -100,10 +100,10 @@ We&rsquo;ll meet in person in Social Sciences 110.   Office hours may be in pers
     speak with Professor Ligon during his office hours via
     <https://are.berkeley.edu/~ligon/appointment.html>.
 
--   **Office hours (by appointment):** Make an appointment with Michelle for help with technical or other problems.
+-   **Office hours (GSI):** Scott will hold an office hour Thursdays 1&#x2013;2p in Giannini 203, or by appointment.
 
 
-<a id="org079b2b8"></a>
+<a id="orgf5c24d0"></a>
 
 ## Evaluation (Grading)
 
@@ -112,7 +112,7 @@ particular, every project will lead to you evaluating your
 classmates in two main ways, and being evaluated yourself in three.
 
 
-<a id="org2151a6e"></a>
+<a id="org6bb5d53"></a>
 
 ### Team evaluations
 
@@ -147,7 +147,7 @@ Everyone will evaluate every team according to several criteria.  For example,
     impression of their presentation.
 
 
-<a id="org13e5590"></a>
+<a id="org1fe9dbc"></a>
 
 ### Teammate evaluations
 
@@ -170,7 +170,7 @@ And finally, we&rsquo;ll ask you to:
 -   Rank each person according to their overall contribution to the project.
 
 
-<a id="org0990d07"></a>
+<a id="org0a9c115"></a>
 
 ### Quality of evaluation
 
@@ -218,7 +218,7 @@ of your evaluations.
     integrity, honesty, and respect for others&rdquo;).
 
 
-<a id="org4d36154"></a>
+<a id="org2fbe0ec"></a>
 
 ### Instructors&rsquo; Evaluation
 
@@ -235,7 +235,7 @@ For each project, you will also be evaluated in terms of your *engagement*.  Thi
     -   <https://github.com/ligon/HackingFood>
 
 
-<a id="org5562f41"></a>
+<a id="org0205c03"></a>
 
 # Projects
 
@@ -248,7 +248,7 @@ complete one structured project for each
 topic.
 
 
-<a id="org0a5d029"></a>
+<a id="orgbbe8634"></a>
 
 ## Introduction & Collaboration
 
@@ -258,7 +258,7 @@ Students will review introductory materials about coding
 for links to resources.
 
 
-<a id="org49ebbb4"></a>
+<a id="org0d90f33"></a>
 
 ## Population & Food Supply
 
@@ -271,16 +271,19 @@ separate dataset allows us to think
 about food supply.
 
 
-<a id="org80cbb2b"></a>
+<a id="org2937f4e"></a>
 
 ### Readings
 
 -   Malthus [An Essay of the Principle of Population (1798)](https://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-1798-1st-ed#lf0195_head_002)
 -   de Janvry-Sadoulet (2015), [Chapter 11 of Development Economics](https://github.com/ligonteaching/EEP153_Materials/blob/master/Project1/Chapter_11_Population15.pdf)
 -   Fuglie (2012), <https://www.ers.usda.gov/amber-waves/2012/september/global-agriculture/>
+-   NYTimes &ldquo;What to eat on a burning planet&rdquo; series, especially:
+    -   <https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html>
+    -   <https://www.nytimes.com/2024/12/13/opinion/food-agriculture-factory-farms-climate-change.html>
 
 
-<a id="org90e7feb"></a>
+<a id="org2d3b57b"></a>
 
 ## Subsistence Diets
 
@@ -296,7 +299,7 @@ foods available to the US population along with prices to
 construct estimates of *minimum cost* subsistence diets.  
 
 
-<a id="org96ab919"></a>
+<a id="org433c78a"></a>
 
 ### Readings
 
@@ -304,7 +307,7 @@ construct estimates of *minimum cost* subsistence diets.
 -   [Dantzig (1990) &ldquo;The Diet Problem&rdquo;](https://github.com/ligonteaching/EEP153_Materials/blob/master/Project2/dantzig90.pdf)
 
 
-<a id="orgba63acb"></a>
+<a id="orgef30ba3"></a>
 
 ## Consumer Food Demand
 
@@ -317,14 +320,14 @@ for food depend on income, prices, and other observables?  How
 well (or poorly) do these diets serve nutritional ends?
 
 
-<a id="org39a0cb1"></a>
+<a id="org8a7e325"></a>
 
 ### Readings
 
 -   Review basic demand theory (e.g., Chapters 3&#x2013;5 in Nicholson-Snyder)
 
 
-<a id="orgdafa8c6"></a>
+<a id="org1cf13ce"></a>
 
 ## Estimating Food Demand Systems
 
@@ -340,7 +343,7 @@ distribution of resources and the demographic composition of the
 global population. 
 
 
-<a id="org51e08ca"></a>
+<a id="org2909bbc"></a>
 
 ## Hacking Food & Nutrition
 
@@ -363,7 +366,7 @@ large we can also think about the value of innovation in either the
 desirability or nutritional content of food.
 
 
-<a id="org085b19e"></a>
+<a id="org4fba24d"></a>
 
 ### Readings
 
