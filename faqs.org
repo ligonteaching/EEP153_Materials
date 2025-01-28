@@ -6,11 +6,15 @@ The course is organized around a sequence of team projects, and most teamwork is
 ** So you  take attendance?
 No, but your /team/ is likely to keep track of your attendance, and they may take a dim view of teammates who aren't available to help.
 ** Are lectures recorded?
-No.
+No.  If you should miss a lecture for some reason, consider asking a teammate for their notes.
 ** How are teams selected?
 People are randomly assigned to teams at the beginning of each project.
 ** What if I join class late, after the random assignment?
 You'll be assigned to a small team.
+** Why the focus on teams?  Why can't I be given a grade based just on my own performance?
+Teamwork is one of the skills we're trying to teach! Modern research and
+industry rely heavily on work in small teams. An important model for this kind
+of work is called [[https://agilemanifesto.org/][Agile]].  These methods originated in software development, but have spread far beyond it
 
 * Grading
 ** What determines my course grade?
