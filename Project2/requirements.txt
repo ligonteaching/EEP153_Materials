@@ -26,3 +26,5 @@ bottleneck >= 1.3.6
 eep153_tools
 
 fooddatacentral
+
+python-gnupg
