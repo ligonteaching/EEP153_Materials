@@ -24,3 +24,5 @@ plotly >= 5.1.0
 
 eep153_tools >= 0.11
 python-gnupg
+
+gspread_pandas >=3.3
