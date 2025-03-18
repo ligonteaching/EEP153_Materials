@@ -2,9 +2,9 @@
 
 # Project3/food_demand.ipynb: 2,64,131,147,165,201,220
 # Project3/prices.ipynb: 1
-CFEDemands >= 0.6.2
+CFEDemands>=0.6.3.dev0
 
-ConsumerDemands >= 0.4.3
+ConsumerDemands >= 0.4.3.dev0
 
 # Project3/food_demand.ipynb: 133,149,174,176,203,222
 matplotlib >= 3.3.4
@@ -26,3 +26,6 @@ eep153_tools >= 0.11
 python-gnupg
 
 gspread_pandas >=3.3
+
+scikit-learn
+xarray
