@@ -45,6 +45,8 @@ y = np.log(x)
 
 d.set_index(['i','t','m'],inplace=True)
 
+r = rgsn.Regression(y=y,d=d)
+
 fct = read_sheets(Uganda_Data,sheet='FCT')
 
 fct = fct.set_index('j')
