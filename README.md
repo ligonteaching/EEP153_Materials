@@ -1,32 +1,32 @@
 
 # Table of Contents
 
-1.  [Overview](#orga78d182)
-2.  [Administrivia](#org85dc15b)
-    1.  [Prerequisites](#orgcdbe7af)
-    2.  [Schedule](#org0256ae2)
-    3.  [People](#org36c9cc6)
-        1.  [Office Hours/Individual Assistance](#org7d511cd)
-    4.  [Evaluation (Grading)](#org03005f4)
-        1.  [Team evaluations](#orge82f550)
-        2.  [Teammate evaluations](#orgb5c2802)
-        3.  [Quality of evaluation](#org5caabb1)
-        4.  [Instructors&rsquo; Evaluation](#orgbe20471)
-3.  [Projects](#org3295df6)
-    1.  [Introduction & Collaboration](#orgc8d91bf)
-    2.  [Population & Food Supply](#orgb57fcd9)
-        1.  [Readings](#org64a0e05)
-    3.  [Subsistence Diets](#orgee4d775)
-        1.  [Readings](#org3f5622b)
-    4.  [Consumer Food Demand](#orgdbeacfa)
-        1.  [Readings](#orgc3baa77)
-    5.  [Estimating Food Demand Systems](#org2fb263d)
-    6.  [Hacking Food & Nutrition](#orgb0df9f8)
-        1.  [Readings](#org570f8ec)
+1.  [Overview](#orgfc9d394)
+2.  [Administrivia](#org94b252f)
+    1.  [Prerequisites](#org429f271)
+    2.  [Schedule](#org5dfe2bc)
+    3.  [People](#org4b87f1a)
+        1.  [Office Hours/Individual Assistance](#org435e84b)
+    4.  [Evaluation (Grading)](#org9be8e80)
+        1.  [Team evaluations](#org536459f)
+        2.  [Teammate evaluations](#org627b4a0)
+        3.  [Quality of evaluation](#org331a5e8)
+        4.  [Instructors&rsquo; Evaluation](#orgcf22bd8)
+3.  [Projects](#orgfcd495a)
+    1.  [Introduction & Collaboration](#org05fab76)
+    2.  [Population & Food Supply](#org5b60afa)
+        1.  [Readings](#orgf8ef725)
+    3.  [Subsistence Diets](#org20f4ca7)
+        1.  [Readings](#org5771967)
+    4.  [Consumer Food Demand](#org35c2ff7)
+        1.  [Readings](#orgb45dbef)
+    5.  [Estimating Food Demand Systems](#orgf1558d3)
+    6.  [Hacking Food & Nutrition](#org9abbb46)
+        1.  [Readings](#org0b5e13f)
 
 
 
-<a id="orga78d182"></a>
+<a id="orgfc9d394"></a>
 
 # Overview
 
@@ -53,12 +53,12 @@ a knowledge of the programming language
 `python`.
 
 
-<a id="org85dc15b"></a>
+<a id="org94b252f"></a>
 
 # Administrivia
 
 
-<a id="orgcdbe7af"></a>
+<a id="org429f271"></a>
 
 ## Prerequisites
 
@@ -67,7 +67,7 @@ equivalents required; Math 54
 recommended.
 
 
-<a id="org0256ae2"></a>
+<a id="org5dfe2bc"></a>
 
 ## Schedule
 
@@ -79,7 +79,7 @@ and tutorials and group work (typically on Thursdays).
 We&rsquo;ll meet in person in Social Sciences 110.   Office hours may be in person or virtual.
 
 
-<a id="org36c9cc6"></a>
+<a id="org4b87f1a"></a>
 
 ## People
 
@@ -87,7 +87,7 @@ We&rsquo;ll meet in person in Social Sciences 110.   Office hours may be in pers
 -   **GSI:** Scott Kjorlien (scottkjorlien@berkeley.edu)
 
 
-<a id="org7d511cd"></a>
+<a id="org435e84b"></a>
 
 ### Office Hours/Individual Assistance
 
@@ -99,10 +99,10 @@ We&rsquo;ll meet in person in Social Sciences 110.   Office hours may be in pers
     speak with Professor Ligon during his office hours via
     <https://are.berkeley.edu/~ligon/appointment.html>.
 
--   **Office hours (GSI):** Scott will hold an office hour TBD, or by appointment.
+-   **Office hours (GSI):** Scott will hold an office hour 11:00am on Tuesdays in Giannini 203, or by appointment.
 
 
-<a id="org03005f4"></a>
+<a id="org9be8e80"></a>
 
 ## Evaluation (Grading)
 
@@ -111,7 +111,7 @@ particular, every project will lead to you evaluating your
 classmates in two main ways, and being evaluated yourself in three.
 
 
-<a id="orge82f550"></a>
+<a id="org536459f"></a>
 
 ### Team evaluations
 
@@ -146,7 +146,7 @@ Everyone will evaluate every team according to several criteria.  For example,
     impression of their presentation.
 
 
-<a id="orgb5c2802"></a>
+<a id="org627b4a0"></a>
 
 ### Teammate evaluations
 
@@ -169,7 +169,7 @@ And finally, we&rsquo;ll ask you to:
 -   Rank each person according to their overall contribution to the project.
 
 
-<a id="org5caabb1"></a>
+<a id="org331a5e8"></a>
 
 ### Quality of evaluation
 
@@ -217,7 +217,7 @@ of your evaluations.
     integrity, honesty, and respect for others&rdquo;).
 
 
-<a id="orgbe20471"></a>
+<a id="orgcf22bd8"></a>
 
 ### Instructors&rsquo; Evaluation
 
@@ -233,7 +233,7 @@ For each project, you will also be evaluated in terms of your *engagement*.  Thi
     -   <https://github.com/ligon/HackingFood>
 
 
-<a id="org3295df6"></a>
+<a id="orgfcd495a"></a>
 
 # Projects
 
@@ -246,7 +246,7 @@ complete one structured project for each
 topic.
 
 
-<a id="orgc8d91bf"></a>
+<a id="org05fab76"></a>
 
 ## Introduction & Collaboration
 
@@ -256,7 +256,7 @@ Students will review introductory materials about coding
 for links to resources.
 
 
-<a id="orgb57fcd9"></a>
+<a id="org5b60afa"></a>
 
 ## Population & Food Supply
 
@@ -269,7 +269,7 @@ separate dataset allows us to think
 about food supply.
 
 
-<a id="org64a0e05"></a>
+<a id="orgf8ef725"></a>
 
 ### Readings
 
@@ -281,7 +281,7 @@ about food supply.
     -   <https://www.nytimes.com/2024/12/13/opinion/food-agriculture-factory-farms-climate-change.html>
 
 
-<a id="orgee4d775"></a>
+<a id="org20f4ca7"></a>
 
 ## Subsistence Diets
 
@@ -297,7 +297,7 @@ foods available to the US population along with prices to
 construct estimates of *minimum cost* subsistence diets.  
 
 
-<a id="org3f5622b"></a>
+<a id="org5771967"></a>
 
 ### Readings
 
@@ -305,7 +305,7 @@ construct estimates of *minimum cost* subsistence diets.
 -   [Dantzig (1990) &ldquo;The Diet Problem&rdquo;](https://github.com/ligonteaching/EEP153_Materials/blob/master/Project2/dantzig90.pdf)
 
 
-<a id="orgdbeacfa"></a>
+<a id="org35c2ff7"></a>
 
 ## Consumer Food Demand
 
@@ -318,14 +318,14 @@ for food depend on income, prices, and other observables?  How
 well (or poorly) do these diets serve nutritional ends?
 
 
-<a id="orgc3baa77"></a>
+<a id="orgb45dbef"></a>
 
 ### Readings
 
 -   Review basic demand theory (e.g., Chapters 3&ndash;5 in Nicholson-Snyder)
 
 
-<a id="org2fb263d"></a>
+<a id="orgf1558d3"></a>
 
 ## Estimating Food Demand Systems
 
@@ -341,7 +341,7 @@ distribution of resources and the demographic composition of the
 global population. 
 
 
-<a id="orgb0df9f8"></a>
+<a id="org9abbb46"></a>
 
 ## Hacking Food & Nutrition
 
@@ -364,7 +364,7 @@ large we can also think about the value of innovation in either the
 desirability or nutritional content of food.
 
 
-<a id="org570f8ec"></a>
+<a id="org0b5e13f"></a>
 
 ### Readings
 

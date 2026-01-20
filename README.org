@@ -52,7 +52,7 @@ a knowledge of the programming language
       speak with Professor Ligon during his office hours via
       https://are.berkeley.edu/~ligon/appointment.html.
 
-    - Office hours (GSI) :: Scott will hold an office hour TBD, or by appointment.
+    - Office hours (GSI) :: Scott will hold an office hour 11:00am on Tuesdays in Giannini 203, or by appointment.
 
 ** Evaluation (Grading)
    Grading in course depends primarily on /peer evaluation/.  In
