@@ -1,7 +1,7 @@
 #+TITLE: EEP153 Syllabus & Materials
 #+AUTHOR: Ethan Ligon
 #+EMAIL: ligon@berkeley.edu
-#+DATE: Spring 2025
+#+DATE: Spring 2026
 
 * Overview
 This course takes a quantitative, hands-on
@@ -32,7 +32,7 @@ a knowledge of the programming language
    recommended.
 
 ** Schedule
-   Meet two times per week; Tuesdays and Thursdays 10am--12pm (Pacific Time).
+   Meet two times per week; Tuesdays and Thursdays 2pm--4pm (Pacific Time).
    
    We'll have a mix of lectures and discussion (typically on Tuesdays)
    and tutorials and group work (typically on Thursdays).
@@ -42,7 +42,6 @@ a knowledge of the programming language
 ** People
    - Instructor :: Ethan Ligon (ligon@berkeley.edu)
    - GSI :: Scott Kjorlien (scottkjorlien@berkeley.edu)
-   - Tutor :: Faye Fang (ce_fang@berkeley.edu)
 
 *** Office Hours/Individual Assistance
     - Questions/Discussion :: Please use [[https://edstem.org]] to ask questions of
@@ -53,7 +52,7 @@ a knowledge of the programming language
       speak with Professor Ligon during his office hours via
       https://are.berkeley.edu/~ligon/appointment.html.
 
-    - Office hours (GSI) :: Scott will hold an office hour Thursdays 1--2p in Giannini 203, or by appointment.
+    - Office hours (GSI) :: Scott will hold an office hour TBD, or by appointment.
 
 ** Evaluation (Grading)
    Grading in course depends primarily on /peer evaluation/.  In
@@ -140,7 +139,6 @@ For each project, you will also be evaluated in terms of your /engagement/.  Thi
  - Number and quality  of comments and issues on github repositories (both yours and others).
  - Number and quality of comments or PRs specifically pertaining to issues/bugs in code or material in EEP153 repos, including
    - https://github.com/ligonteaching/EEP153_Materials/issues
-   - https://github.com/ligonteaching/EEP153_Exercises/issues
    - https://github.com/ligon/Population
    - https://github.com/ligon/MinCostDiet
    - https://github.com/ligon/FoodDemand
@@ -157,7 +155,7 @@ For each project, you will also be evaluated in terms of your /engagement/.  Thi
 ** Introduction & Collaboration
 Students will review introductory materials about coding 
 (Python and Pandas) and potential ways to collaborate 
-(Git, Google Colab, Trello, and Agile). See online posts
+(Git, github, Google Colab, Trello, and Agile). See online posts
 for links to resources.
 
 ** Population & Food Supply
