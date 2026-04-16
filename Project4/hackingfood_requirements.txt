@@ -1,0 +1,3 @@
+# Minimal requirements for example_nutrition.ipynb (Project 4)
+CFEDemands>=0.8.2
+ligonlibrary>=0.2.0
